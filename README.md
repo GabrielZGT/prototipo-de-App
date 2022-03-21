@@ -1,2 +1,1 @@
-# prototipo-de-App
-Atividade proposta de criar app
+A simple command-line application.
